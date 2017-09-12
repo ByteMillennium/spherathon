@@ -21,3 +21,4 @@
 * Moved pause button to other side of screen so the camera turn buttons are more easily accessible
 * Added Spherling icon to all the "ad watch" buttons
 * Buttons in main menu are colors you choose for the ball
+* Removed the Spherathon logo in the main menu and re-positioned the play button
