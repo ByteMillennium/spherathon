@@ -9,6 +9,8 @@ Spherathon is a 3D platformer type game where you take control of a ball. Earn c
 - Watch videos to earn currency
 - Magnificent 3D graphics
 
+# Change Log
+The [Spherathon](https://play.google.com/store/apps/details?id=com.ByteMillennium.Spherathon&rdid=com.ByteMillennium.Spherathon) change log can be found [here](Changelog.md)
 # Contributing
 Make sure to read over the [contributing](CONTRIBUTING.md) file for information like submitting pull requests and issues.
 
