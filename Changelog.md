@@ -1,6 +1,6 @@
 ## [Spherathon](https://play.google.com/store/apps/details?id=com.ByteMillennium.Spherathon) Change Log
 
-#### `Version 1.2 (Unreleased)`
+### `Version 1.2 (Unreleased)`
 * Changed the way the quit button looks
 * Removed borders around screen edges in main menu
 * Re-sized settings icon
@@ -16,7 +16,7 @@
 * Buttons in main menu are colors you choose for the ball
 * Removed the Spherathon logo in the main menu and re-positioned the play button
 
-#### `Version 1.1`
+### `Version 1.1`
 * Bug where logo was showing over the quit confirmation panel was fixed
 * Reduced app size by compressing images and music
 
