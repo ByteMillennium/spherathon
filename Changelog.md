@@ -1,4 +1,3 @@
-
 ## [Spherathon](https://play.google.com/store/apps/details?id=com.ByteMillennium.Spherathon) Change Log
 
 ### `Version 1.2 (Unreleased)`
@@ -19,6 +18,12 @@
 * Re-positioned the play button
 * Trimmed music so the volume can be more consistent
 * Changed the background image for the spherling bar and changed the text color
+* Made the camera automatically turn after entering the portal in level one
+* Removed the sign telling you to turn the camera around as it is no longer needed
+* Replaced the hide button with the settings button
+* Setting icons are now more consistent
+* Added a Spherling icon next to the amount you win in the levels
+* Increased joystick image quality
 
 ### `Version 1.1 (Current)`
 * Bug where logo was showing over the quit confirmation panel was fixed
