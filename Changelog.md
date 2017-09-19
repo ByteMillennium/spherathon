@@ -1,6 +1,6 @@
 ## [Spherathon](https://play.google.com/store/apps/details?id=com.ByteMillennium.Spherathon) Change Log
 
-### `Version 1.2 (Unreleased)`
+### `Version 1.2 (Current)`
 * Changed the way the quit button looks
 * Removed borders around screen edges in main menu
 * Re-sized settings icon
@@ -14,6 +14,8 @@
 * Moved pause button to other side of screen so the camera turn buttons are more easily accessible
 * Added Spherling icon to all the "ad watch" buttons
 * Buttons in main menu are colors you choose for the ball
+* Made it so the player has to touch the wall to win in level one
+* Fixed a bug where the player could get stuck between the first few platforms in level one
 * Removed the Spherathon logo in the main menu 
 * Re-positioned the play button
 * Trimmed music so the volume can be more consistent
@@ -23,9 +25,12 @@
 * Replaced the hide button with the settings button
 * Setting icons are now more consistent
 * Added a Spherling icon next to the amount you win in the levels
-* Increased joystick image quality
+* Added level two
+* Made ads more appropriate
+* Increased joystick and jump button image quality
 
-### `Version 1.1 (Current)`
+
+### `Version 1.1`
 * Bug where logo was showing over the quit confirmation panel was fixed
 * Reduced app size by compressing images and music
 
