@@ -1,6 +1,11 @@
 ## [Spherathon](https://play.google.com/store/apps/details?id=com.ByteMillennium.Spherathon) Change Log
 
-### `Version 1.2 (Current)`
+### `Version 1.2.1 (Current)`
+* Fixed bugs in level two (Collection sound playing bug, best time bug)
+* The player now has to finish all previous levels to unlock later levels
+* Player now has to get three stars to get a best time on level two
+
+### `Version 1.2`
 * Changed the way the quit button looks
 * Removed borders around screen edges in main menu
 * Re-sized settings icon
