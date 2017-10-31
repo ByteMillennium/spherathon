@@ -15,7 +15,7 @@ The [Spherathon](https://play.google.com/store/apps/details?id=com.ByteMillenniu
 Make sure to read over the [contributing](CONTRIBUTING.md) file for information like submitting pull requests and issues.
 
 # About
-Made by [Byte Millennium](https://bytemillennium.tk). Released in August 2017.
+Made by [Byte Millennium](https://bytemillennium.tk). Released in August 2017
 
 ### License
 Spherathon is distributed under the [Byte Millennium License](https://git.io/v5ocb).
